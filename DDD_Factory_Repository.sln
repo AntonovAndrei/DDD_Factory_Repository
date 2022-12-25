@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD_Factory_Repository", "DDD_Factory_Repository\DDD_Factory_Repository.csproj", "{66A2794D-6BDB-4468-A3DC-F92D246D643D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66A2794D-6BDB-4468-A3DC-F92D246D643D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A2794D-6BDB-4468-A3DC-F92D246D643D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A2794D-6BDB-4468-A3DC-F92D246D643D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A2794D-6BDB-4468-A3DC-F92D246D643D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
